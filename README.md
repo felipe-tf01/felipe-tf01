@@ -2,7 +2,7 @@
 
 <div style="display: inline_block">
  👻 Since: 2024 <br>
- 🤖 XP in Laravel <br>
+ 🤖 XP in Laravel and Node <br>
  ✏️ Studying Java & Spring Boot!
 
 </div>
